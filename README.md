@@ -8,3 +8,5 @@ Project Links
 [Simon Game](https://naveen-polasa.github.io/Web2-Projects/Simon%20Game/)
 
 [Drum Kit](https://naveen-polasa.github.io/Web2-Projects/Drum%20Kit/)
+
+[Newsletter-Signup](https://pacific-earth-66490.herokuapp.com/)
