@@ -12,3 +12,5 @@ Project Links
 [Newsletter-Signup](https://pacific-earth-66490.herokuapp.com/)
 
 [ToDoList](https://secure-falls-36626.herokuapp.com/)
+
+[Disney+ Hotstar Clone](https://naveen-polasa.github.io/Web2-Projects/Disney+%20Hotstar%20Clone/)
