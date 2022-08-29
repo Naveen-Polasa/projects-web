@@ -14,3 +14,5 @@ Project Links
 [ToDoList](https://secure-falls-36626.herokuapp.com/)
 
 [Disney+ Hotstar Clone](https://naveen-polasa.github.io/Web2-Projects/Disney+%20Hotstar%20Clone/)
+
+[Color Flipper] (https://naveen-polasa.github.io/Web2-Projects/Color%20Flipper/hex.html)
