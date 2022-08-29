@@ -15,4 +15,4 @@ Project Links
 
 [Disney+ Hotstar Clone](https://naveen-polasa.github.io/Web2-Projects/Disney+%20Hotstar%20Clone/)
 
-[Color Flipper](https://naveen-polasa.github.io/Web2-Projects/Color%20Flipper/hex.html)
+[Color Flipper](https://naveen-polasa.github.io/Web2-Projects/Color%20Flipper/index.html)
